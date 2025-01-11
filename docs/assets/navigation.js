@@ -1,0 +1,3 @@
+/** @format */
+
+window.navigationData = 'eJyLjgUAARUAuQ==';
