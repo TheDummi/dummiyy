@@ -1,7 +1,7 @@
 {
 	"name": "dummiyy",
 	"description": "a cli tool for dummi to easily initialise projects.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Dummi",
 	"type": "module",
 	"license": "MIT",
